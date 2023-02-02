@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/maruthigi/shop.git/static/css/main.073c9b0a.css",
-    "main.js": "/maruthigi/shop.git/static/js/main.1d9c7f90.js",
-    "static/js/787.e577274b.chunk.js": "/maruthigi/shop.git/static/js/787.e577274b.chunk.js",
-    "static/media/logo.svg": "/maruthigi/shop.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/maruthigi/shop.git/index.html",
-    "main.073c9b0a.css.map": "/maruthigi/shop.git/static/css/main.073c9b0a.css.map",
-    "main.1d9c7f90.js.map": "/maruthigi/shop.git/static/js/main.1d9c7f90.js.map",
-    "787.e577274b.chunk.js.map": "/maruthigi/shop.git/static/js/787.e577274b.chunk.js.map"
+    "main.css": "/shop/static/css/main.073c9b0a.css",
+    "main.js": "/shop/static/js/main.2fb13efe.js",
+    "static/js/787.e577274b.chunk.js": "/shop/static/js/787.e577274b.chunk.js",
+    "static/media/logo.svg": "/shop/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/shop/index.html",
+    "main.073c9b0a.css.map": "/shop/static/css/main.073c9b0a.css.map",
+    "main.2fb13efe.js.map": "/shop/static/js/main.2fb13efe.js.map",
+    "787.e577274b.chunk.js.map": "/shop/static/js/787.e577274b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.1d9c7f90.js"
+    "static/js/main.2fb13efe.js"
   ]
 }
